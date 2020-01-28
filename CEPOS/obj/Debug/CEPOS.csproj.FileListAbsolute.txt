@@ -1,0 +1,15 @@
+C:\Users\Majid\source\repos\CEPOS\CEPOS\bin\Debug\CEPOS.exe.config
+C:\Users\Majid\source\repos\CEPOS\CEPOS\bin\Debug\CEPOS.exe
+C:\Users\Majid\source\repos\CEPOS\CEPOS\bin\Debug\CEPOS.pdb
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.UI.LoginForm.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.MainInterface.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.Properties.Resources.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.UI.ProductsManagement.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.csproj.GenerateResource.cache
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.exe
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.pdb
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.UI.PeopleManagement.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.UI.PurchaseManagement.resources
+C:\Users\Majid\source\repos\CEPOS\CEPOS\obj\Debug\CEPOS.UI.SalesManagement.resources
